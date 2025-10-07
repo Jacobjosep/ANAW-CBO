@@ -1,3 +1,47 @@
+# ANAW - Act of Networking and Welfare
+
+A comprehensive web platform for managing networking and welfare activities supporting communities in Sudan through global collaboration.
+
+## 🌟 Overview
+
+ANAW is a web-based platform that connects members worldwide to support communities in Sudan through networking, welfare programs, and collaborative efforts. The system provides separate interfaces for administrators and members with role-based access control.
+
+## ✨ Features
+
+### Public Website
+- **Responsive Design**: Mobile-friendly interface with modern UI
+- **Tab-based Navigation**: Home, About, Programs, Meetings, Donate, Contact
+- **Interactive Elements**: Smooth animations and transitions
+- **Contact Form**: Integrated with FormSubmit for email handling
+- **Social Media Integration**: Links to various platforms
+
+### Admin Dashboard
+- **Member Management**: Add, view, and delete members
+- **Meeting Scheduling**: Create and manage virtual meetings
+- **Project Management**: Track active projects and budgets
+- **Announcement System**: Post updates to different user groups
+- **Statistics Overview**: Dashboard with key metrics
+
+### Member Dashboard
+- **Personal Donation Tracking**: View donation history and totals
+- **Meeting Access**: Join scheduled virtual meetings
+- **Announcement Feed**: Stay updated with organization news
+- **Project Information**: View active initiatives
+- **Donation Portal**: Make contributions to specific projects
+
+## 🛠️ Technology Stack
+
+- **Frontend**: HTML5, CSS3, JavaScript
+- **Backend**: PHP
+- **Database**: MySQL
+- **Styling**: Custom CSS with CSS Variables
+- **Icons**: Font Awesome 6.4.0
+- **Forms**: FormSubmit.co for contact form handling
+
+## 📁 Project Structure
+
+
+
 # ANAW-CBO
 Act of Networking And Networking 
 
